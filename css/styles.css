@@ -1,8 +1,12 @@
 body{
     display: grid;
+    margin: 0;
+    font-size: 24pt;
     place-items: center;
+    height: 100vh;
+    align-content: center;
 }
 
 img{
-    width: 300px;
+    width: 400px;
 }
